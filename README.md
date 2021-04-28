@@ -51,6 +51,9 @@ The dataset was built by collecting images of people's faces and artifically occ
 * **Validation Loss**: 0.0147
 
 
+## Learning Curves:
+
+![learning_curve2](https://user-images.githubusercontent.com/42680059/116427026-46ea8200-a861-11eb-9ad1-ecb6eb6b6d3f.png)"
 
 
 
