@@ -5,8 +5,10 @@
 #### The aim is to build a classification model based on face mask detection involving two classes: 'mask' and 'no mask. The model involves training pictures of images with people wearing masks and people not wearing masks.
 
 ## Dataset:
-Link: https://github.com/prajnasb/observations/tree/master/mask_classifier
+Link: https://github.com/prajnasb/observations/tree/master/mask_classifier 
+<br />
 The dataset was built by prajnasb and was acquired from her GitHub Repo.
+<br />
 The dataset was built by collecting images of people's faces and artifically occulding the lower face with a picture of a mask. The mask is occulded over the lower face by estimating the landmarks of the lower face and artificially applying the mask image.
 
 ## Packages and Dependancies:
